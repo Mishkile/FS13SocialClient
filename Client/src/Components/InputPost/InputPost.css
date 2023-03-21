@@ -1,0 +1,19 @@
+.input-post {
+   
+    width: 200px;
+   text-align: center;
+    background-color: #f5f5f5;
+    border-radius: 4px;
+    transition: 250ms;
+
+    
+
+}
+.input-post:hover {
+   
+    box-shadow: 5px 5px 10px 0 rgba(255, 255, 255, 0.1);
+ 
+    scale: 1.02;
+    
+
+}
